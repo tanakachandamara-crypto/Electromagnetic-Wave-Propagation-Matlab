@@ -1,0 +1,6 @@
+# MATLAB autosave / cache
+*.asv
+*.m~
+.matlab/
+Thumbs.db
+.DS_Store
